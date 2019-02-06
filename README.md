@@ -11,5 +11,6 @@ Here the survival analysis is performed on the following factors.
 -	Are participants more likely to stay if they have some friends/family/office colleague in the campaign?  
 
 Please refer participant_survival_analysis.R 
+
 In the code till line 77 Data cleaning process is performed. The later part is the code for survival analysis.
 
