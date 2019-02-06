@@ -1,5 +1,5 @@
 # Participants-Survival-Analysis
-As a part of Teradata Data Challenge, for the fund raising in Bike Champaign a strategy had to be decided to attract more participants. So this survival analysis basically checks that what kind of participants last longer and help us to analyze the pattern more clearer. It also helps us to analyze the participant churn and target the right audience.
+As a part of Teradata Data Challenge, for the fund raising in Bike Champaign, a strategy had to be decided to attract more participants. So this survival analysis basically checks  what kind of participants last longer and help us to analyze the pattern of surviving more clearer. It also helps us to analyze the participant churn and target the right audience.
 Here the survival analysis is performed on the following factors.
 
 -	Is gender affecting the participance?
